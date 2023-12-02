@@ -45,6 +45,12 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
+### `npm install gh-pages --save-dev`
+
+### `npm install @fullcalendar/react @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/interaction @fullcalendar/list`    ..For Calendar Problems 
+                      
+
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
